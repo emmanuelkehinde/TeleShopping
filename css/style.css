@@ -1,0 +1,24 @@
+
+.product-list{
+    border-bottom: #8a8c8d solid 1px;
+    padding: 10px 0 10px 0;
+
+}
+
+.product_details{
+    display: inline;
+}
+
+#product_photo{
+    height: 50px;
+    width: 50px;
+    display: inline;
+}
+
+.product_name_price{
+    display: inline;
+}
+
+.color-grey{
+    color: #5a5a5a;
+}
